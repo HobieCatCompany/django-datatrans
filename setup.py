@@ -29,7 +29,7 @@ setup(name='django-datatrans',
           'Topic :: Software Development :: Internationalization',
       ],
       install_requires=[
-          'Django==1.8.7',
+          'Django>=1.8.7',
       ]
 )
 
